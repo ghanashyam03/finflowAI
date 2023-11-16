@@ -1,0 +1,21 @@
+HOTEL ABC
+Address: 123 XYZ Street, City
+Phone: +91 123 456 7890
+GSTIN: 12FGHIJ5678K9L0
+Invoice No: 20231112002
+Date: November 12, 2023
+
+Description               Quantity      Price         Total
+
+1. Butter Chicken         2 servings   ₹220.00       ₹440.00
+2. Veg Pulao              1 serving    ₹180.00       ₹180.00
+3. Tandoori Roti          4 pieces     ₹25.00        ₹100.00
+4. Fresh Lime Soda        2 glasses    ₹40.00        ₹80.00
+5. Chocolate Brownie      2 pieces     ₹60.00        ₹60.00
+
+Subtotal                   ₹860.00
+GST (18%)                  ₹154.80
+Service Charge (5%)        ₹43.00
+Total                      ₹1,057.80
+
+Thank you for dining with us! Please visit again.
